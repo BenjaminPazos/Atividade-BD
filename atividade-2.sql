@@ -47,7 +47,7 @@ insert into Ator values('a2', 'Brad Pitt', 'João Paulo', 'USA', 'M', '28', '1',
 insert into Ator values('a20', 'Cameron Diaz', 'Esperanza Diaz', 'Costa Rica', 'F', '29', null, null);
 insert into Ator values('a21', 'Holly Hunter', 'Susan Richards', 'USA', 'F', '33', '1', '1');
 insert into Ator values('a22', 'Richard Gere', 'Richard Gere', 'USA', 'M', '34', '1', '1');
-insert into Ator values('a3', 'Jessica Lange', 'Jessica Lange', ',USA', 'F', '42' ,'4', '2');
+insert into Ator values('a3', 'Jessica Lange', 'Jessica Lange', 'USA', 'F', '42' ,'4', '2');
 insert into Ator values('a4', 'Dustin Hoffman', 'Dustin Hoffman', 'USA', 'M', '36', '2', null);
 insert into Ator values('a5', 'Sônia Braga', 'Sônia Braga', 'Brasil', 'F', '45', null, null);
 insert into Ator values('a6','Samuel Jackson', 'Samuel L. Jackson', 'USA', 'M', '60', null, null);
@@ -55,7 +55,6 @@ insert into Ator values('a7','Sandra Bullock', 'Sandra Bullock', 'USA', 'F', '30
 insert into Ator values('a8', 'Harry Cornick Jr.', 'Harry Cornick Jr.', 'USA', 'M', '40', null, null);
 insert into Ator values('a9', 'Wesley Snipes', 'Wesley Snipes', 'USA', 'M', '31', '1', null);
 
-insert into Filme value('f1', 'A jurada', '1996', '1000000', '18');
 insert into Filme values('f1', 'A jurada', '1996', '1000000', '18');
 insert into Filme values('f10', 'Cidade das Sombras', '1997', '10000000', '7');
 insert into Filme values('f11', 'Irresistível Paixão', '1998', '10000000', '10');
@@ -86,7 +85,7 @@ insert into Filme values('f9', 'Blade, o Caçador de Vampiros', '1998', '1000000
 insert into Personagem values('f1', 'a1', 'Mary', '30000');
 insert into Personagem values('f10', 'a10', 'Columbo', '3000000');
 insert into Personagem values('f11', 'a11', 'Johnny', '8000000');
-insert into Personagem values('f11', 'a12', 'Holly', '1000000');
+insert into Personagem values('f11', 'a13', 'Holly', '1000000');
 insert into Personagem values('f12', 'a13', 'Diego', '5000000');
 insert into Personagem values('f12', 'a14', 'Pancho', '8000000');
 insert into Personagem values('f13', 'a16', 'Roger', '4000000');
